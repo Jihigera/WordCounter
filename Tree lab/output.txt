@@ -1,0 +1,200 @@
+Number of collisions building the table: 57
+1  their
+2  now
+3  have
+4  on
+5  every
+6  had
+7  there
+8  were
+9  with
+10  for
+11  after
+12  was
+13  and
+14  from
+15  the
+16  which
+17  is
+18  to
+19  because
+20  a
+21  it
+22  all
+23  its
+24  in
+25  so
+26  that
+27  of
+
+  1:  To be or not to be that is the question 
+  2:  Whether tis nobler in the mind to suffer The slings 
+  3:  and arrows of outrageous fortune Or to take arms against 
+  4:  a sea of troubles And by opposing end them To 
+  5:  die to sleep No more and by a sleep to 
+  6:  say we end The heart ache and the thousand natural 
+  7:  shocks That flesh is heir to tis a consummation Devoutly 
+  8:  to be wish'd To die to sleep To sleep perchance 
+  9:  to dream ay there's the rub For in that sleep 
+ 10:  of death what dreams may come When we have shuffled 
+ 11:  off this mortal coil Must give us pause There's the 
+ 12:  respect That makes calamity of so long life For who 
+ 13:  would bear the whips and scorns of time Th' oppressor's 
+ 14:  wrong the proud man's contumely The pangs of despised love 
+ 15:  the law's delay The insolence of office and the spurns 
+ 16:  That patient merit of th' unworthy takes When he himself 
+ 17:  might his quietus make With a bare bodkin who would 
+ 18:  fardels bear To grunt and sweat under a weary life 
+ 19:  But that the dread of something after death The undiscover'd 
+ 20:  country from whose bourn No traveller returns puzzles the will 
+ 21:  And makes us rather bear those ills we have Than 
+ 22:  fly to others that we know not of Thus conscience 
+ 23:  does make cowards of us all And thus the native 
+ 24:  hue of resolution Is sicklied o'er with the pale cast 
+ 25:  of thought And enterprises of great pith and moment With 
+ 26:  this regard their currents turn awry And lose the name 
+ 27:  of action 
+Word        Count   Line numbers
+--------------------------------
+ache          1     6
+action        1     27
+against       1     3
+arms          1     3
+arrows        1     3
+awry          1     26
+ay            1     9
+bare          1     17
+be            3     1, 8
+bear          3     13, 18, 21
+bodkin        1     17
+bourn         1     20
+but           1     19
+by            2     4, 5
+calamity      1     12
+cast          1     24
+coil          1     11
+come          1     10
+conscience    1     22
+consummation  1     7
+contumely     1     14
+country       1     20
+cowards       1     23
+currents      1     26
+death         2     10, 19
+delay         1     15
+despised      1     14
+devoutly      1     7
+die           2     5, 8
+does          1     23
+dread         1     19
+dream         1     9
+dreams        1     10
+end           2     4, 6
+enterprises   1     25
+fardels       1     18
+flesh         1     7
+fly           1     22
+fortune       1     3
+give          1     11
+great         1     25
+grunt         1     18
+he            1     16
+heart         1     6
+heir          1     7
+himself       1     16
+his           1     17
+hue           1     24
+ills          1     21
+insolence     1     15
+know          1     22
+law's         1     15
+life          2     12, 18
+long          1     12
+lose          1     26
+love          1     14
+make          2     17, 23
+makes         2     12, 21
+man's         1     14
+may           1     10
+merit         1     16
+might         1     17
+mind          1     2
+moment        1     25
+more          1     5
+mortal        1     11
+must          1     11
+name          1     26
+native        1     23
+natural       1     6
+no            2     5, 20
+nobler        1     2
+not           2     1, 22
+o'er          1     24
+off           1     11
+office        1     15
+opposing      1     4
+oppressor's   1     13
+or            2     1, 3
+others        1     22
+outrageous    1     3
+pale          1     24
+pangs         1     14
+patient       1     16
+pause         1     11
+perchance     1     8
+pith          1     25
+proud         1     14
+puzzles       1     20
+question      1     1
+quietus       1     17
+rather        1     21
+regard        1     26
+resolution    1     24
+respect       1     12
+returns       1     20
+rub           1     9
+say           1     6
+scorns        1     13
+sea           1     4
+shocks        1     7
+shuffled      1     10
+sicklied      1     24
+sleep         5     5, 8, 9
+slings        1     2
+something     1     19
+spurns        1     15
+suffer        1     2
+sweat         1     18
+take          1     3
+takes         1     16
+th'           2     13, 16
+than          1     21
+them          1     4
+there's       2     9, 11
+this          2     11, 26
+those         1     21
+thought       1     25
+thousand      1     6
+thus          2     22, 23
+time          1     13
+tis           2     2, 7
+traveller     1     20
+troubles      1     4
+turn          1     26
+under         1     18
+undiscover'd  1     19
+unworthy      1     16
+us            3     11, 21, 23
+we            4     6, 10, 21, 22
+weary         1     18
+what          1     10
+when          2     10, 16
+whether       1     2
+whips         1     13
+who           2     12, 17
+whose         1     20
+will          1     20
+wish'd        1     8
+would         2     13, 17
+wrong         1     14
+
