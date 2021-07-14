@@ -1,12 +1,9 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+WordCounter
+Version 1.0
+This is a school project. It builds a hash table from an input text file and prints it to the 
+standard output. Then it reads through a second input file and builds a binary search tree
+of common words in both files and prints the tree in alphabetical order.
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
 HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Download the zip file. Run the Tester.java file.
+AUTHORS: Grant Reed
